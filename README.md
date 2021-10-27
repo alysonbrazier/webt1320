@@ -3,7 +3,8 @@
 <h1>Basic Web Projects</h1>
 
 <ul>
-    <li><a href="lab2/index.html" target="blank">Lab2</a></li>
+    <li><a href="project 1/index.html" target="blank">project 1</a></li>
+    <li><a href="project 2/index.html" target="blank">project 2</a></li>
 </ul>
 
  
