@@ -1,6 +1,7 @@
 /* Global Styles */
 body {
     background-color: aqua;
+    font-family: 'Caveat', cursive;
 }
 
 img {
@@ -30,6 +31,7 @@ header h1 {
     color: #000;
     text-shadow: 2px 2px 2px #eac7bf; 
     text-align: center;
+    font-family: 'Indie Flower', cursive;
 }
 
 nav ul {
@@ -52,6 +54,7 @@ nav li a {
     font-size: 1.2em;
     margin: 10px 0;
     border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
 }
 
 nav li a:hover {
@@ -72,6 +75,7 @@ h2, h3 {
     text-shadow: 2px 2px 2px #000;
     font-size: 1.5em;
     text-align: center;
+    font-family: 'Indie Flower', cursive;
 }
 
 section img, aside img {
@@ -90,6 +94,7 @@ section img, aside img {
     font-size: 1em;
     margin: 10px auto;
     border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
 }
 
 .button:hover {
@@ -138,6 +143,7 @@ table {
 
     header h1 {
         font-size: 3em;
+        font-family: 'Indie Flower', cursive;
     }
 
     nav {
