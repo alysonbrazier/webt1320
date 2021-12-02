@@ -21,14 +21,14 @@ img {
 
 
 header {
-    background-image: url("../images/blueheeler1");
+    background-image: url("../images/blueheeler1.jpeg");
     background-size: cover;
     padding: 75px 0;
 }
 
 header h1 {
-    color: gray;
-    text-shadow: 2px 2px 2px #000;
+    color: #000;
+    text-shadow: 2px 2px 2px #eac7bf; 
     text-align: center;
 }
 
